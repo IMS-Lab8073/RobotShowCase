@@ -2,7 +2,7 @@
 
 <h4> 芝浦工業大学 知能機械システム研究室　加藤宏一朗，松日楽　信人</h4>
 
-2021/01/27 開催のロボットフォーラムで行われる，RSNP遠隔操作デモンストレーション用ソフトウェアページです．  
+2021/07/30 開催のロボットショーケースで行われる，RSNP遠隔操作デモンストレーション用ソフトウェアページです．  
 
 ## [ロボットショーケースの案内ページ](https://www.mext.go.jp/a_menu/universal/mext_01601.html)
 
@@ -11,7 +11,6 @@
 
 以下のマニュアルを用意しています．  
  - [RSNPユニット操作方法](https://github.com/IMS-Lab8073/RobotShowCase/blob/main/docs/RSNPUnitmanual.md)
- - [操作画面マニュアル](https://github.com/IMS-Lab8073/RobotShowCase/blob/main/docs/operationmanual.md)
  - [Raspberry Piセットアップマニュアル](https://github.com/IMS-Lab8073/RobotShowCase/blob/main/docs/RaspiSetup.md)
  - [データ仕様](https://github.com/IMS-Lab8073/RobotShowCase/blob/main/docs/Specification.md)
 
