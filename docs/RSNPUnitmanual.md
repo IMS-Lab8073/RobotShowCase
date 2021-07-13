@@ -120,7 +120,7 @@ JavaCV TryLoad終了
 ```
 の表示が出れば起動成功です．  
 
-<img src="https://user-images.githubusercontent.com/46204057/125301487-01205e80-e366-11eb-9a2a-3cde62d8c0da.png">
+<img src="https://user-images.githubusercontent.com/46204057/125301487-01205e80-e366-11eb-9a2a-3cde62d8c0da.png" width="80%">
 
 #### 2.2.3 遠隔操作用クライアントを立ち上げる
 ロボット搭載用のみで大丈夫です．  
